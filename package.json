@@ -1,0 +1,8 @@
+{
+  "name": "xunit_metakata_js",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "dependencies": {}
+}
